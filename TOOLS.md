@@ -37,4 +37,17 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
+## SSH
+
+### VPS (4adclaw)
+- Host: 157.22.175.174
+- User: root
+- Key: ~/.ssh/vps_key (в папке workspace/.ssh/)
+- Connect: `ssh -i ~/.openclaw/workspace/.ssh/vps_key root@157.22.175.174`
+- Claude Code: `/usr/bin/claude` (v2.1.74)
+- Proxy для API: `HTTPS_PROXY=socks5://127.0.0.1:10808`
+- Запуск Claude Code на VPS: `ssh -i ~/.openclaw/workspace/.ssh/vps_key root@157.22.175.174 'HTTPS_PROXY=socks5://127.0.0.1:10808 claude ...'`
+
+---
+
 Add whatever helps you do your job. This is your cheat sheet.
