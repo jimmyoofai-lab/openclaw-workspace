@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "skills": {
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1773410521810
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1773410581992
+    },
+    "himalaya": {
+      "version": "1.0.0",
+      "installedAt": 1773410585604
+    },
+    "slack": {
+      "version": "1.0.0",
+      "installedAt": 1773410589589
+    },
+    "discord": {
+      "version": "1.0.1",
+      "installedAt": 1773410593796
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1773410641761
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1773410645411
+    },
+    "sag": {
+      "version": "1.0.0",
+      "installedAt": 1773410702604
+    },
+    "openai-image-gen": {
+      "version": "1.0.1",
+      "installedAt": 1773410763552
+    },
+    "trello": {
+      "version": "1.0.0",
+      "installedAt": 1773410767605
+    },
+    "apple-notes": {
+      "version": "1.0.0",
+      "installedAt": 1773410778362
+    },
+    "things-mac": {
+      "version": "1.0.0",
+      "installedAt": 1773410824110
+    },
+    "apple-reminders": {
+      "version": "1.0.0",
+      "installedAt": 1773410881888
+    }
+  }
+}
