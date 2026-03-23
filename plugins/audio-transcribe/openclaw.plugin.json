@@ -1,0 +1,16 @@
+{
+  "id": "audio-transcribe",
+  "name": "Audio Transcribe",
+  "description": "Transcribes audio files using faster-whisper (offline, Russian-optimized)",
+  "version": "1.0.0",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "defaultLanguage": {
+        "type": "string",
+        "default": "ru"
+      }
+    }
+  }
+}

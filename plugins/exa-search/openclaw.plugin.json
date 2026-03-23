@@ -1,0 +1,11 @@
+{
+  "id": "exa-search",
+  "name": "Exa Search",
+  "description": "Neural web search via Exa API",
+  "version": "1.0.0",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}

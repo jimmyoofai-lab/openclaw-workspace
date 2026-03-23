@@ -1,0 +1,10 @@
+# Sensitive keys
+.ssh/
+.clawhub/lock.json
+
+# Logs (optional — keep history locally)
+security.log
+
+# Session data (generated automatically)
+spam-limits.json
+pending-users.json
